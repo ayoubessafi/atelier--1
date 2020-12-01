@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "atelier 1", "atelier 1\atelier 1.csproj", "{C156F8F1-2089-4984-9C28-A55947F31184}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "atelier 1", "atelier 1\atelier 1.csproj", "{C156F8F1-2089-4984-9C28-A55947F31184}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "boucles", "boucles\boucles.csproj", "{0330D653-41B1-417A-8C6A-821815558723}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C156F8F1-2089-4984-9C28-A55947F31184}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C156F8F1-2089-4984-9C28-A55947F31184}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C156F8F1-2089-4984-9C28-A55947F31184}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0330D653-41B1-417A-8C6A-821815558723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0330D653-41B1-417A-8C6A-821815558723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0330D653-41B1-417A-8C6A-821815558723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0330D653-41B1-417A-8C6A-821815558723}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
