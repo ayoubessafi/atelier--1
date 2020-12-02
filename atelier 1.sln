@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "boucles", "boucles\boucles.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fonction et condition", "fonction et condition\fonction et condition.csproj", "{3BE1DB17-8AFC-432B-A6E3-E3B3B446BBE5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "les collections", "les collections\les collections.csproj", "{F9DE1A9C-712C-40FD-982F-FD99BF2DB772}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3BE1DB17-8AFC-432B-A6E3-E3B3B446BBE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BE1DB17-8AFC-432B-A6E3-E3B3B446BBE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BE1DB17-8AFC-432B-A6E3-E3B3B446BBE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9DE1A9C-712C-40FD-982F-FD99BF2DB772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9DE1A9C-712C-40FD-982F-FD99BF2DB772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9DE1A9C-712C-40FD-982F-FD99BF2DB772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9DE1A9C-712C-40FD-982F-FD99BF2DB772}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
